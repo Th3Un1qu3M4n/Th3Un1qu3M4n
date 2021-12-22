@@ -12,7 +12,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Th3Un1qu3M4n&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th3Un1qu3M4n&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="HxnDev" height="192px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Th3Un1qu3M4n&show_icons=true&count_private=true&theme=highcontrast" width="50%"/></a> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Th3Un1qu3M4n&show_icons=true&locale=en&layout=compact&theme=highcontrast" width="40%"/>
 <br/>
   &nbsp;
 	  
