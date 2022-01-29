@@ -2,7 +2,7 @@
 <h4><ul> 
     <li>👀 I’m interested in WEB, BLOCKCHAIN and CLOUD</li>
   <li>🌱 I’m currently learning BASIC WEB DEVELOPEMENT with BLOCKCHAIN</li>
-  <li>💞️ I’m looking to collaborate on Solidity Smart Contracts and/or Backend Web Projects</li>
+  <li>💞️ I’m looking to collaborate on Solidity Smart Contracts & Backend Web Projects</li>
   </ul></h4>
 
 ## 🔥 Streak Stats
